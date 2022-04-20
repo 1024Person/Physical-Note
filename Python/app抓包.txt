@@ -1,0 +1,5 @@
+Fildder	+ 夜神模拟器
+参考网址：http://www.voycn.com/article/fiddleryeshenmoniqijinxingappzhuabao
+最重要的一步在IE设置的那一步上，端口号一直不对，所以就一直抓不到包！！！
+但是后来，我有改回来了，最后也还可以抓包，到底是为什么呢？难道是必须要改一次才可以吗？
+改一次就行的话，那么为什么之后还可以抓到包呢？
