@@ -4,7 +4,7 @@
 
 这个图从左上角开始向下看
 
-![image-20220506225237929](C:\Users\ASUS\Desktop\笔记\Python\PyQt\image-20220506225237929.png)
+![](https://gitee.com/Person1024/pic/raw/master/img/image-20220506225237929.png)
 
 ## 2、精简版事件讲解
 

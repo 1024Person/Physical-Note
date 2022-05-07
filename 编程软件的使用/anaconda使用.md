@@ -2,7 +2,7 @@
 
 ## 1、命令行运行环境
 
-![image-20220402231629643](C:\Users\ASUS\Desktop\编码\编程软件的使用\image-20220402231629643.png)
+![](https://gitee.com/Person1024/pic/raw/master/img/image-20220402231629643.png)
 
 ## 2、查看所有环境、创建环境以及激活环境
 
@@ -84,11 +84,11 @@
 
 ## 4、anaconda和vscode配合使用
 
-![image-20220402233747789](C:\Users\ASUS\Desktop\编码\编程软件的使用\image-20220402233747789.png)
+![](https://gitee.com/Person1024/pic/raw/master/img/image-20220402233747789.png)
 
 点击右下角圈出来的
 
-![image-20220402233831663](C:\Users\ASUS\Desktop\编码\编程软件的使用\image-20220402233831663.png)
+![](https://gitee.com/Person1024/pic/raw/master/img/image-20220402233831663.png)
 
 选一个环境
 
