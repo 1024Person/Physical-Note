@@ -35,3 +35,11 @@ config的全部命令
 <img src="https://cdn.jsdelivr.net/gh/1024Person/pic-raw@main/img/image-20220627202339354.png" alt="image-20220627202339354" style="zoom:50%;" />
 
 <img src="https://cdn.jsdelivr.net/gh/1024Person/pic-raw@main/img/image-20220627202622822.png" alt="image-20220627202622822" style="zoom:50%;" />
+
+
+
+## add
+
+![image-20220701182728155](https://cdn.jsdelivr.net/gh/1024Person/pic-raw@main/img/image-20220701182728155.png)
+
+> **子目录**下无法实现全部文件的git add 的操作，必须返回**根目录**进行，重新提交
